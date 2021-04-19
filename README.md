@@ -18,4 +18,4 @@ Data provided in the dataset include:
 This is an “open challenge,” mainly focusing on natural language processing. The problem could be either about predictive modeling or providing analytical insights for some business use cases. Note the problem should be treated as large-scale, as the dataset is large (e.g., >100GB) and will not fit into the RAM of your machine. 
 ## Result and code
 
-Please see code [here](https://github.com/mingge612/spam-classif/blob/main/Naive%20Bayes%20Spam.ipynb) for details.
+Please see code [here](https://github.com/mingge612/natural-language-processing/blob/main/Eluvio_DS_Challenge.ipynb) for details.
