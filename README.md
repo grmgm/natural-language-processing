@@ -3,6 +3,7 @@
 ## Overview. 
 
 The dataset is tabular and the features involved should be self-explanatory. 
+It can be downloaded [here](https://drive.google.com/file/d/15X00ZWBjla7qGOIW33j8865QdF89IyAk/view?usp=sharing\).
 
 Data provided in the dataset include:
 * time created: timestamp of the news post, stored in `times`
